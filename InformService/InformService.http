@@ -1,0 +1,6 @@
+@InformService_HostAddress = http://localhost:5168
+
+GET {{InformService_HostAddress}}/informservice/
+Accept: application/json
+
+###
